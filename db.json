@@ -1,14 +1,24 @@
 {
   "posts": [
     {
-      "title": "하잉",
-      "body": "헬로",
-      "id": 1
+      "title": "시간",
+      "body": "추가추가",
+      "createdAt": 1684729179934,
+      "id": 4,
+      "publish": true
     },
     {
-      "title": "리스트로",
-      "body": "이동",
-      "id": 2
+      "title": "글추가",
+      "body": "++--++",
+      "createdAt": 1684731199684,
+      "id": 6
+    },
+    {
+      "title": "공개",
+      "body": "비공개",
+      "publish": true,
+      "createdAt": 1684734887918,
+      "id": 7
     }
   ]
 }

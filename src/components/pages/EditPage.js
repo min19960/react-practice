@@ -1,6 +1,10 @@
+import BlogForm from "../BlogForm";
+
 const EditPage = () =>{
     return(
-        <div>Edit Page</div>
+        <div>
+            <BlogForm editing={true} />
+        </div>
     );
 }
 
